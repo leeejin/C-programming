@@ -5,3 +5,4 @@
 <h4>What I should study</h4>
 <li>Struct</li>
 <li>Pointer</li>
+<li>Malloc</li>
